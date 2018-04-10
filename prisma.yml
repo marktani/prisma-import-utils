@@ -1,0 +1,6 @@
+service: scalar-list-import
+stage: dev
+
+datamodel: datamodel.graphql
+
+disableAuth: true

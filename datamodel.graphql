@@ -1,0 +1,4 @@
+type A {
+  id: ID! @unique
+  strings: [String!]!
+}
